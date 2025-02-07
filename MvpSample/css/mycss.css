@@ -1,0 +1,8 @@
+.customControl{
+    overflow: auto !important;
+}
+
+.MuiPaper-root{
+    margin-bottom: 15px !important;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3) !important;
+}
